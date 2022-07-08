@@ -1,0 +1,2 @@
+# morse-translator
+This program uses a **morse to english** dictionary and **english to morse** dictionary to accurately convert morse text to english and back. The program is straight forward and explains itself through print statements in the console, however please remember to use correct morse code, meaning there has to be 3 spaces between each letter and 7 spaces between each word for the translator to work. And also only use real english letters / numbers in the english category, or an error will be returned.
